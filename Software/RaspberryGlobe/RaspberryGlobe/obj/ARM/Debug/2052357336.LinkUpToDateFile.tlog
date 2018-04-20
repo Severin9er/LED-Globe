@@ -1,1 +1,0 @@
-g++ -o "/root/projects/RaspberryGlobe/bin/ARM/Debug/RaspberryGlobe.out" -Wl,--no-undefined -Wl,-L/usr/local/lib -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -I/usr/local/include -L/usr/local/lib -lwiringPi -lrt /root/projects/RaspberryGlobe/obj/ARM/Debug/bcm2835.o /root/projects/RaspberryGlobe/obj/ARM/Debug/main.o
