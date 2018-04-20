@@ -1,0 +1,13 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '142.16.2.181'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\NeunerSe\Documents\Visual Studio 2017\Projects\RaspberryGlobe - Release 1.0\RaspberryGlobe\definitions.h(10,1): warning : ‘typedef’ was ignored in this declaration
+C:\Users\NeunerSe\Documents\Visual Studio 2017\Projects\RaspberryGlobe - Release 1.0\RaspberryGlobe\main.cpp(52,19): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\NeunerSe\Documents\Visual Studio 2017\Projects\RaspberryGlobe - Release 1.0\RaspberryGlobe\main.cpp(25,6): warning : variable ‘result’ set but not used [-Wunused-but-set-variable]
+  pictures.cpp
+C:\Users\NeunerSe\Documents\Visual Studio 2017\Projects\RaspberryGlobe - Release 1.0\RaspberryGlobe\definitions.h(10,1): warning : ‘typedef’ was ignored in this declaration
+  Linking objects
+  RaspberryGlobe.vcxproj -> C:\Users\NeunerSe\Documents\Visual Studio 2017\Projects\RaspberryGlobe - Release 1.0\RaspberryGlobe\bin\ARM\Release\RaspberryGlobe.out
